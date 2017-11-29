@@ -6,7 +6,7 @@ Lab 2: For the second week of processing I had a some expirience, although I sti
 
 
 
-Lab 3: The third assignment was all about math operations and variables, and at this point I was starting to get the hang of processing and was ready for some more advanced code. Once again it was a very simplistic sketch, although I got some help from youtuber Steve Dickie to make this assignment easier. [link to code]https://github.com/Gamelover999/GH/blob/gh-pages/f17_magd150_lab03_quinn.pde
+Lab 3: The third assignment was all about math operations and variables, and at this point I was starting to get the hang of processing and was ready for some more advanced code. Once again it was a very simplistic sketch, although I got some help from youtuber Steve Dickie to make this assignment easier. [link to code]https://github.com/Gamelover999/gh-pages/blob/gh-pages/f17_magd150_lab03_quinn.pde
 
 Lab 4: This week was about Dynamism, and for the assignment I did the same thing except I added some code to change to colors of the circles with a mouse click. [link to code]https://github.com/Gamelover999/GH/blob/gh-pages/s17magd150lab04_quinn.pde
 
