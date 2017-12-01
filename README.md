@@ -1,4 +1,4 @@
-Lab 1: My first time using processing was quite the expirience, my previous expirience with coding was using html for web developmen, and jumping into processing was harder then I expected. Eventually I was about to figure out the ins and outs of processing and made a simple rectagular house because that was both theme of the week and the easiest thing to create. [https://github.com/Gamelover999/gh-pages/blob/gh-pages/f17magd150lab01_quinn.pde]
+Lab 1: My first time using processing was quite the expirience, my previous expirience with coding was using html for web developmen, and jumping into processing was harder then I expected. Eventually I was about to figure out the ins and outs of processing and made a simple rectagular house because that was both theme of the week and the easiest thing to create. [Link to Source Code](https://github.com/Gamelover999/gh-pages/blob/gh-pages/f17magd150lab01_quinn.pde)
 
 
 
